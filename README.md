@@ -3,5 +3,5 @@ example GIT repository
 
 ## Author
 
-Nick DeNardis
+Nick DeNardis  
 Instructor
